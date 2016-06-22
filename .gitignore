@@ -40,5 +40,5 @@ luac.out
 *.hex
 
 # MacOS
-*.DS_Store
+.DS_Store
 
